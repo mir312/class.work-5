@@ -93,3 +93,6 @@ line-height: 62px;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.card_img{
+	width: calc((100% - 72px) / 3);
+}
